@@ -1,5 +1,4 @@
-# Recommendation-System
-【Python】AI 推薦系統
+# 【Python】AI 推薦系統
 
 ## 相似電影推薦
 
